@@ -1,4 +1,4 @@
-Dataset Attributes
+**Dataset Attributes**
 The dataset contains information about Oscar-winning movies, focusing on their cinematic attributes, directors, and critical reception. Key attributes include:
 •	Name: Title of the movie.
 •	Oscar Year: Year the movie won the Best Picture Oscar.
@@ -12,7 +12,7 @@ The dataset contains information about Oscar-winning movies, focusing on their c
 •	Poster: URL to the movie’s poster.
 •	Key Themes: High-level concepts derived from the movie summary.
 ________________________________________
-Objectives
+**Objectives**
 1.	Understand Genre Preferences: Analyze trends in genres that have historically won Oscars.
 2.	Explore Director Contributions: Identify directors with multiple Oscar-winning films.
 3.	Examine Ratings and Duration: Investigate how movie ratings and runtime correlate with winning.
@@ -20,7 +20,7 @@ Objectives
 5.	Visualize Release Patterns: Analyze the temporal distribution of Oscar-winning movies.
 6.	Provide Managerial Insights: Support film production decisions, awards strategies, and audience targeting with data-driven insights.
 ________________________________________
-Managerial Insights
+**Managerial Insights**
 1.	Genre Dominance:
 o	Drama dominates as the most frequent genre in Oscar-winning movies, reflecting its appeal to critics and audiences alike.
 o	Mixed genres like Biography, Drama, History and Drama, Romance, War are also prevalent, showing a preference for thought-provoking and emotional narratives.
