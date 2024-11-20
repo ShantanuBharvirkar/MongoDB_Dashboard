@@ -12,6 +12,10 @@ The dataset contains information about Oscar-winning movies, focusing on their c
 •	Summary: Short description of the movie’s plot.
 •	Poster: URL to the movie’s poster.
 •	Key Themes: High-level concepts derived from the movie summary.
+
+
+**Dashboard Image**
+![Final MongoDb Dashboard screenshot](https://github.com/user-attachments/assets/5837573e-7801-4e19-9e94-53d2683cfeea)
 ________________________________________
 **Objectives**
 1.	Understand Genre Preferences: Analyze trends in genres that have historically won Oscars.
